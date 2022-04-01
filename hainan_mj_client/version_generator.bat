@@ -1,0 +1,1 @@
+node version_generator.js -v 1.3.0018 -u http://192.168.1.170/update-assets/ -s ../build/jsb-link/ -d assets/

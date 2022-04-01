@@ -1,0 +1,5 @@
+AppID£ºwx1df67f21b6ec8bc2
+appsecret : 7ee22bf0f8d4c5758485d6e6c044ed7b
+
+¶¨Î»key : andriod : 597d9f8a03311792752707e107495eff
+		 ios : 1e151f2e088a5b65bbec3e08629029b9
